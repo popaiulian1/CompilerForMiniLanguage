@@ -1,0 +1,69 @@
+﻿int addIntegers(int first, int second)
+{
+ return first + second;
+}
+
+float divideIntegers(int first, int second)
+{
+ int first = 23;
+ if(second == 0)
+ {
+ return 0;
+ }
+ 
+ return second / second;
+}
+
+float divideIntegers(int first, int second)
+{
+ if(second == 0)
+ {
+ return 0;
+ }
+ 
+ return second / second;
+}
+
+double globalVariable = 15.67;
+int secondGlobalVar = 12;
+
+float secondGlobalVar = 12.3;
+
+int main()
+{
+ int myFirstVariable = 17;
+ int mySecondVariable = 45;
+ int myThirdVariable = 3;
+
+ for (int i = 0; i < myThirdVariable; ++i)
+ {
+ myFirstVariable += i;
+ }
+
+ string myString = "hola";
+ string checkTypeCompat = 12;
+ int myString = 12;
+
+ if (myFirstVariable >= mySecondVariable && globalVariable != 16.54)
+ {
+ myString = "Both conditions are true";
+ }
+
+ else
+ {
+ myString = "At least one of the conditions is false";
+ int temp = myFirstVariable + 5;
+ }
+
+ int temp;
+	
+ if(true)
+ {
+ myString = "salut";
+ }
+
+ myThirdVariable = addIntegers(myFirstVariable, mySecondVariable);
+
+ int myFloat = divideIntegers(myThirdVariable, myFirstVariable);
+ return 0;
+}

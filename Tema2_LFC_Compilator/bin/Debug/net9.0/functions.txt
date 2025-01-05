@@ -1,0 +1,27 @@
+Function:
+  <Type: int, Name: addIntegers, Parameters: (intfirst,intsecond), FunctionType: Iterative, Main: Non-Main>
+  Local Variables: 
+	
+  Control Structures: 
+	
+
+Function:
+  <Type: float, Name: divideIntegers, Parameters: (intfirst,intsecond), FunctionType: Iterative, Main: Non-Main>
+  Local Variables: 
+	
+  Control Structures: 
+	<Structure: If, Line: 9>
+
+Function:
+  <Type: int, Name: main, Parameters: (None), FunctionType: Iterative, Main: Main>
+  Local Variables: 
+	<Type: int, Name: myFirstVariable, Value: 17>,
+	<Type: int, Name: mySecondVariable, Value: 45>,
+	<Type: int, Name: myThirdVariable, Value: 3>,
+	<Type: string, Name: myString, Value: "hola">,
+	<Type: int, Name: temp, Value: Unassigned>
+  Control Structures: 
+	<Structure: For, Line: 38>,
+	<Structure: If..Else, Line: 47>,
+	<Structure: If, Line: 60>
+

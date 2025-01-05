@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5DmXr82VeQ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulian\\Desktop\\CompilerForMiniLanguage\\Tema2_LFC_Compilator\\Tema2_LFC_Compilator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulian\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

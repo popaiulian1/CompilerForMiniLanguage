@@ -1,0 +1,35 @@
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.exe
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.deps.json
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.runtimeconfig.json
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.dll
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.pdb
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.AssemblyInfoInputs.cache
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.AssemblyInfo.cs
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.csproj.CoreCompileInputs.cache
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.dll
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\refint\Tema2_LFC_Compilator.dll
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.pdb
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.genruntimeconfig.cache
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\ref\Tema2_LFC_Compilator.dll
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.csproj.AssemblyReference.cache
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\bin\Debug\net9.0\Antlr4.Runtime.Standard.dll
+D:\FACULTATE AN2\Tema2_LFC_Compilator\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LF.1569BEC7.Up2Date
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.exe
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.deps.json
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.runtimeconfig.json
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.dll
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\bin\Debug\net9.0\Tema2_LFC_Compilator.pdb
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\bin\Debug\net9.0\Antlr4.Runtime.Standard.dll
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.csproj.AssemblyReference.cache
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.AssemblyInfoInputs.cache
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.AssemblyInfo.cs
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.sourcelink.json
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LF.1569BEC7.Up2Date
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.dll
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\refint\Tema2_LFC_Compilator.dll
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.pdb
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\Tema2_LFC_Compilator.genruntimeconfig.cache
+C:\Users\Iulian\Desktop\CompilerForMiniLanguage\Tema2_LFC_Compilator\obj\Debug\net9.0\ref\Tema2_LFC_Compilator.dll

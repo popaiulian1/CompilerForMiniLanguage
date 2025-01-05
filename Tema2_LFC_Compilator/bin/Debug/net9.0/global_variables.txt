@@ -1,0 +1,2 @@
+<Type: double, Name: globalVariable, Value: 15.67>
+<Type: int, Name: secondGlobalVar, Value: 12>
